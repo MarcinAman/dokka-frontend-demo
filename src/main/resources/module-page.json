@@ -1,0 +1,22 @@
+{
+  "name": "example",
+  "description": "This is JS documentation for module example",
+  "content": [
+    {
+      "name": "example",
+      "location": "example////PointingToDeclaration/"
+    },
+    {
+      "name": "greeteer",
+      "location": "greeteer////PointingToDeclaration/"
+    },
+    {
+      "name": "greeteer.example.somethingsomething2something3",
+      "location": "greeteer.example.somethingsomething2something3////PointingToDeclaration/"
+    },
+    {
+      "name": "example2",
+      "location": "example2////PointingToDeclaration/"
+    }
+  ]
+}
