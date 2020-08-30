@@ -56,6 +56,11 @@ val modulePageComponent = functionalComponent<RProps> {
                             +state.content.name
                         }
                     }
+                    div("platform-hinted UnderCoverText") {
+                        span {
+                            +state.content.description
+                        }
+                    }
                 }
                 h2 {
                     +"Packages"

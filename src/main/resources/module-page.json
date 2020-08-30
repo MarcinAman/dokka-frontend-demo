@@ -4,19 +4,19 @@
   "content": [
     {
       "name": "example",
-      "location": "example////PointingToDeclaration/"
+      "location": "example"
     },
     {
       "name": "greeteer",
-      "location": "greeteer////PointingToDeclaration/"
+      "location": "greeteer"
     },
     {
       "name": "greeteer.example.somethingsomething2something3",
-      "location": "greeteer.example.somethingsomething2something3////PointingToDeclaration/"
+      "location": "greeteer.example.somethingsomething2something3"
     },
     {
       "name": "example2",
-      "location": "example2////PointingToDeclaration/"
+      "location": "example2"
     }
   ]
 }

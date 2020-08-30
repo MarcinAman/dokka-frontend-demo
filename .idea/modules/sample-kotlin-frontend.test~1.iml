@@ -7,7 +7,6 @@
           <sourceSet>sample-kotlin-frontend.main~1</sourceSet>
         </sourceSets>
         <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
-        <externalSystemTestTasks>browserTest|sample-kotlin-frontend:test|js</externalSystemTestTasks>
         <compilerSettings />
         <compilerArguments>
           <option name="outputFile" value="$MODULE_DIR$/../../build/js/packages/sample-kotlin-frontend-test/kotlin/sample-kotlin-frontend-test.js" />
